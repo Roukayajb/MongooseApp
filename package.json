@@ -1,0 +1,20 @@
+{
+  "name": "mongoose_chap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": " nodemon index.js",
+    "dev": "nodemon Connectdb.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.3",
+    "nodemon": "^2.0.19",
+    "validator": "^13.7.0"
+  }
+}
